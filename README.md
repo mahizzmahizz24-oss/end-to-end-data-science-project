@@ -29,4 +29,10 @@ This project demonstrates the entire lifecycle of a data science solution, inclu
 Overall, the project serves as a beginner-friendly example of combining data science and web development. It helps in understanding how predictive models can support decision-making and how Python-based tools can be used to build scalable and interactive data-driven applications.
 
 output of the task:
+<img width="625" height="46" alt="Image" src="https://github.com/user-attachments/assets/f90abc41-4b83-460b-b438-a46d7db8ab64" />
 
+<img width="747" height="141" alt="Image" src="https://github.com/user-attachments/assets/ddbf5853-fef9-4dfc-8217-61ef9b9c02fb" />
+
+<img width="518" height="154" alt="Image" src="https://github.com/user-attachments/assets/01aceefb-301e-4417-8998-5395890872f1" />
+
+<img width="448" height="70" alt="Image" src="https://github.com/user-attachments/assets/65784ba3-4e86-41f3-9338-2dce0a2d9753" />
